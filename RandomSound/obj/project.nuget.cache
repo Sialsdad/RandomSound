@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dqxnQDyyHg7jdUPfHQFFCM/wbcOEwEjLgkVz5ixxpS+GXkLTWJLqzCtVpPVjdODuAh7ksXoyCMoAMm4Pl1/I0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\notfi\\Desktop\\New folder (2)\\3\\RandomSound-main\\RandomSound\\RandomSound.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\notfi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\notfi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
